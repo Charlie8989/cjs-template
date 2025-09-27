@@ -1,4 +1,4 @@
-# cjs
+# 🌟 cjs
 
 [![npm version](https://img.shields.io/npm/v/cjs.svg)](https://www.npmjs.com/package/cjs)  
 [![npm downloads](https://img.shields.io/npm/dm/cjs.svg)](https://www.npmjs.com/package/cjs)  
@@ -8,13 +8,15 @@
 
 ---
 
-## Installation
+## ⚙️ Installation
 
-You don’t need to install it globally. Just use `npx` to run it directly.
+You don’t need to install it globally. Just use **npx** to run it directly.
 
-## Steps
+---
 
-### Step 1: Create a new project
+## 🪜 Steps
+
+### 🔹 Step 1: Create a new project
 ```bash
 npx create-cjs my-app
 
@@ -22,28 +24,28 @@ npx create-cjs my-app
 
 This will create a new folder named my-app and set up your project inside it.
 
-Step 2: Install in the same folder (optional)
+🔹 Step 2: Install in the same folder (optional)
+
 ```bash
 npx create-cjs .
 
 ```
 
-This will set up the project in your current directory.
+📂 This will set up the project in your current directory.
 
-Step 3: Follow the prompts
+🔹 Step 3: Follow the prompts
 
-Once the setup starts, just follow the next steps shown in your terminal.
+💡 Once the setup starts, just follow the next steps shown in your terminal.
 
-Notes
+📌 Notes
 
-Requires Node.js (>= 16) and npm.
+⚠️ Requires Node.js (>= 16) and npm.
+✅ No extra configuration required — just run and go!
 
-No extra configuration required — just run and go!
-
-Contributing
+🤝 Contributing
 
 Feel free to open issues and pull requests if you’d like to contribute.
 
-License
+📜 License
 
 MIT
