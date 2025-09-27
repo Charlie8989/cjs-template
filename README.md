@@ -1,12 +1,40 @@
-# React + Vite
+# cjs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![npm version](https://img.shields.io/npm/v/cjs.svg)](https://www.npmjs.com/package/cjs)
+[![npm downloads](https://img.shields.io/npm/dm/cjs.svg)](https://www.npmjs.com/package/cjs)
+[![Node.js Version](https://img.shields.io/node/v/cjs.svg)](https://nodejs.org)
 
-Currently, two official plugins are available:
+`cjs` is a simple CLI tool to quickly set up your project with minimal effort. 🚀  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You don’t need to install it globally. Just use `npx` to run it directly.
+
+## Steps
+
+### Step 1: Create a new project
+```bash
+npx create-cjs my-app
+This will create a new folder named my-app and set up your project inside it.
+
+Step 2: Install in the same folder (optional)
+bash
+Copy code
+npx create-cjs .
+This will set up the project in your current directory.
+
+Step 3: Follow the prompts
+Once the setup starts, just follow the next steps shown in your terminal.
+
+Notes
+Requires Node.js (>= 16) and npm.
+
+No extra configuration required — just run and go!
+
+Contributing
+Feel free to open issues and pull requests if you’d like to contribute.
+
+License
+MIT
