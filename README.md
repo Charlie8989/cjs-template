@@ -1,9 +1,5 @@
 # 🌟 cjs
 
-[![npm version](https://img.shields.io/npm/v/cjs.svg)](https://www.npmjs.com/package/cjs)  
-[![npm downloads](https://img.shields.io/npm/dm/cjs.svg)](https://www.npmjs.com/package/cjs)  
-[![Node.js Version](https://img.shields.io/node/v/cjs.svg)](https://nodejs.org)  
-
 `cjs` is a simple CLI tool to quickly set up your project with minimal effort. 🚀  
 
 ---
